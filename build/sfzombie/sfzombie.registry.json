@@ -1,0 +1,27 @@
+{
+  "namespace": "sfzombie",
+  "fsNamespace": "sfzombie",
+  "loader": "../sfzombie.js",
+  "core": "sfzombie.core.js",
+  "corePolyfilled": "es5-build-disabled.js",
+  "components": {
+    "sf-aaaaa": {
+      "$": "sf-aaaaa"
+    },
+    "sf-app": {
+      "$": "sf-aaaaa"
+    },
+    "sf-bitalarm": {
+      "$": "sf-aaaaa"
+    },
+    "sf-hero": {
+      "$": "sf-aaaaa"
+    },
+    "sf-intro": {
+      "$": "sf-aaaaa"
+    },
+    "sf-wdp": {
+      "$": "sf-aaaaa"
+    }
+  }
+}
