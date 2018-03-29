@@ -4,23 +4,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
   <title>Damoon Rashidi</title>
-  <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Open+Sans|Passion+One|VT323" rel="stylesheet">
-  <script src="/build/sfzombie.js"></script>
-  <style>
-    *, *::before, *::after {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-      -webkit-font-smoothing: antialiased;
-    }
-  </style>
-
 </head>
 <body>
-
   <sf-app></sf-app>
-
-
+  <script src="/build/sfzombie.js"></script>
   <script>
     if ('serviceWorker' in navigator && location.protocol !== 'file:') {
       // auto-unregister service worker during dev mode
@@ -31,6 +18,14 @@
       });
     }
   </script>
-
+  <style>
+    @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Open+Sans|Passion+One');
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      -webkit-font-smoothing: antialiased;
+    }
+  </style>
 </body>
 </html>

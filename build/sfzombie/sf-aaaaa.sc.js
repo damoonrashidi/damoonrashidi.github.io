@@ -12,7 +12,7 @@ class AaaaaComponent {
                 h("a", { href: "http://github.com/damoonrashidi/damoonrashidi.github.io" }, "Github"),
                 " and ",
                 h("a", { href: "https://damoonrashidi.github.io/" }, "Live Demo")),
-            h("img", { src: "../../assets/projects/aaaaa.png", alt: "" }));
+            h("img", { src: "../../assets/projects/aaaaa.webp", alt: "" }));
     }
     static get is() { return "sf-aaaaa"; }
     static get encapsulation() { return "shadow"; }
@@ -36,7 +36,7 @@ class BitAlarmComponent {
     render() {
         return h("div", { class: "host" },
             h("div", { class: "idiotic-phone-thing-that-everyone-has" },
-                h("img", { src: "../../assets/projects/bitalarm.png" })),
+                h("img", { src: "../../assets/projects/bitalarm.webp" })),
             h("div", { class: "content" },
                 h("h2", null, "BitAlarm"),
                 h("p", null,
