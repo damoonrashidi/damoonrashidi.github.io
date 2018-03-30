@@ -2,26 +2,26 @@
   "namespace": "sfzombie",
   "fsNamespace": "sfzombie",
   "loader": "../sfzombie.js",
-  "core": "sfzombie.core.js",
-  "corePolyfilled": "es5-build-disabled.js",
+  "core": "sfzombie.lllyf3l6.js",
+  "corePolyfilled": "sfzombie.b4ubp9yu.js",
   "components": {
     "sf-aaaaa": {
-      "$": "sf-aaaaa"
+      "$": "ppwhfauf"
     },
     "sf-app": {
-      "$": "sf-aaaaa"
+      "$": "ppwhfauf"
     },
     "sf-bitalarm": {
-      "$": "sf-aaaaa"
+      "$": "ppwhfauf"
     },
     "sf-hero": {
-      "$": "sf-aaaaa"
+      "$": "ppwhfauf"
     },
     "sf-intro": {
-      "$": "sf-aaaaa"
+      "$": "ppwhfauf"
     },
     "sf-wdp": {
-      "$": "sf-aaaaa"
+      "$": "ppwhfauf"
     }
   }
 }
