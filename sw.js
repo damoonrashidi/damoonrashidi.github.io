@@ -31,7 +31,7 @@ self.workbox.precaching.precacheAndRoute([
   },
   {
     "url": "build/app.js",
-    "revision": "e4ffb6bab9720abef2521fb385fe3a17"
+    "revision": "b3904b006fa49523fea7fdb507f7482b"
   },
   {
     "url": "build/app/app.njja7zmk.js",
@@ -42,6 +42,22 @@ self.workbox.precaching.precacheAndRoute([
     "revision": "9ed76ba5b109bd121100cddd92bda443"
   },
   {
+    "url": "build/app/jbnjbt7r.es5.js",
+    "revision": "f5a4b368019a5c03ba816c5dbf1e16be"
+  },
+  {
+    "url": "build/app/jbnjbt7r.js",
+    "revision": "8db3496d3ed1316bbb3606c81d7aa300"
+  },
+  {
+    "url": "build/app/jbnjbt7r.sc.es5.js",
+    "revision": "8d8588438c2ee273142c5a82d4587d58"
+  },
+  {
+    "url": "build/app/jbnjbt7r.sc.js",
+    "revision": "dd585d8698c0ced9a6e975b99561c8a9"
+  },
+  {
     "url": "build/app/vulcudcr.es5.js",
     "revision": "66c3528ac104763b505bea932c1c60d2"
   },
@@ -50,24 +66,8 @@ self.workbox.precaching.precacheAndRoute([
     "revision": "56e2dcbbe0c244b272054931d3dc9f1a"
   },
   {
-    "url": "build/app/vvyjmhj9.es5.js",
-    "revision": "3e327568a53b4e0cb250cfd0d5391025"
-  },
-  {
-    "url": "build/app/vvyjmhj9.js",
-    "revision": "56fc899a18fd716620d3382134416dfc"
-  },
-  {
-    "url": "build/app/vvyjmhj9.sc.es5.js",
-    "revision": "46e82e9c55f3cf8ed5bfab18ea3e8d4a"
-  },
-  {
-    "url": "build/app/vvyjmhj9.sc.js",
-    "revision": "811248b88b1a1dc861cf3bf942eb23a6"
-  },
-  {
     "url": "index.html",
-    "revision": "97c4e914a89873bb9c4332c83d80f923"
+    "revision": "bff9326a64793d746055108409459548"
   },
   {
     "url": "manifest.json",
