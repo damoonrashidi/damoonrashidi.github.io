@@ -1,0 +1,45 @@
+{
+  "namespace": "App",
+  "fsNamespace": "app",
+  "loader": "../app.js",
+  "global": "app.global.js",
+  "core": "app.njja7zmk.js",
+  "corePolyfilled": "app.ntdrpbej.js",
+  "components": {
+    "app-aaaaa": {
+      "bundleIds": {
+        "$": "vvyjmhj9"
+      },
+      "encapsulation": "shadow"
+    },
+    "app-bitalarm": {
+      "bundleIds": {
+        "$": "vvyjmhj9"
+      },
+      "encapsulation": "shadow"
+    },
+    "app-hero": {
+      "bundleIds": {
+        "$": "vvyjmhj9"
+      },
+      "encapsulation": "shadow"
+    },
+    "app-intro": {
+      "bundleIds": {
+        "$": "vvyjmhj9"
+      },
+      "encapsulation": "shadow"
+    },
+    "app-root": {
+      "bundleIds": {
+        "$": "vulcudcr"
+      }
+    },
+    "app-wdp": {
+      "bundleIds": {
+        "$": "vvyjmhj9"
+      },
+      "encapsulation": "shadow"
+    }
+  }
+}
